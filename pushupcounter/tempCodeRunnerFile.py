@@ -1,0 +1,7 @@
+cv2.circle(image,leftShoulder,8,(246, 225, 195),5)
+    cv2.circle(image,rightShoulder,8,(168, 68, 72),5)
+    cv2.circle(image,leftWrist,8,(246, 225, 195),5)
+    cv2.circle(image,leftelbow,8,(246, 225, 195),5)
+    cv2.circle(image,rightWrist,8,(168, 68, 72),5)
+    cv2.circle(image,rightelbow,8,(168, 68, 72),5)
+    cv2.circle(image,nosePoint,8,(0,255,255),5)
